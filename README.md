@@ -1,16 +1,7 @@
 # Simple Daap project using React Typescript, Harhat and ether js.
 
-I have learned to interact with smart contract using ether js
-
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+I learned following things doing this project:
+ 
+ 1. Deploying contract through hardhat
+ 2. Interacting with deployed smart contract using ether js
+ 3. Using typescript
